@@ -89,9 +89,8 @@ a.shop{
 .logo a {
   display: inline-block;
 }
-.top-nav{
-	float:right;
-	margin-top: 0px;
+.nav-item{
+    text-align: right;
 }
  .slider {
 	position: relative;
